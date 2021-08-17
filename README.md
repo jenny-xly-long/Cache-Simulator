@@ -36,7 +36,3 @@ This implementation makes loading a block of data from ram to cache very easy. T
 2. ```python3 ./cache-sim``` for default configuration
 3. ```python3 ./cache-sim -c 4096 -b 8 -n 1 -r random -a daxpy -d 9``` example of customized configuration
 
-## Notes
-You will find the PDF write-up with experimental data in the repo under the name ***MPCS CompArch Summer 2021 Project 1***.
-
-The file cache-sim.py is commented.
